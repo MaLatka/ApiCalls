@@ -1,0 +1,13 @@
+{
+    "url": "https://userinyerface.com/",
+    "apiUrl": "https://jsonplaceholder.typicode.com",
+    "paths": {
+      "testDataFilePath": "project/data/staticTestData.json",
+      "apiTestDataFilePath": "project/data/apiStaticTestData.json",
+      "statusCodeFilePath": "project/appUtils/api/statusCode.json"
+    },
+  "randomConfig": {
+    "radix": 36,
+    "indexStart": 2
+  }
+}
